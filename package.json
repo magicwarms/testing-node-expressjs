@@ -1,0 +1,19 @@
+{
+  "name": "testing-node-expressjs",
+  "version": "1.0.0",
+  "description": "Tutorial NodeJS testing framework using mocha and chai",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "testing",
+    "framework",
+    "mocha",
+    "chai"
+  ],
+  "author": "Andhana Utama",
+  "license": "ISC"
+}
